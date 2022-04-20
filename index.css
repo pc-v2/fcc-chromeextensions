@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  min-width: 400px;
+}
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid coral;
+  margin-bottom: 4px;
+}
+button {
+  font-weight: bold;
+  background: coral;
+  border: 1px solid coral;
+  color: white;
+  padding: 10px 20px;
+}
+#erase-btn {
+  background: white;
+  color:coral
+}
+
+#ul-el {
+  margin-top: 20px;
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  margin-top: 5px;
+}
+a {
+  color: coral;
+}
